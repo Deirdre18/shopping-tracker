@@ -14,4 +14,5 @@
     "minimatch": "3.0.2"
   },
   
+  
   "dependencies":{"browser-sync":"^2.26.12","cordova-android":"^8.1.0","lodash":"^4.17.19"},"cordova":{"plugins":{"cordova-plugin-whitelist":{},"cordova-plugin-statusbar":{},"cordova-plugin-device":{},"cordova-plugin-splashscreen":{},"cordova-plugin-ionic-webview":{},"cordova-plugin-ionic-keyboard":{}}}}
